@@ -1,0 +1,10 @@
+{
+  "name": "Test3Project",
+  "functions": [
+    {
+      "name": "Test3Function",
+      "handler": "Test3Function.handler",
+      "pathToFunction": "src/resolvers/Test3Function/handler.ts"
+    }
+  ]
+}

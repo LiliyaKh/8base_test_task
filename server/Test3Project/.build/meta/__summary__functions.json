@@ -1,0 +1,17 @@
+{
+  "functions": [
+    {
+      "name": "Test3Function",
+      "handler": "Test3Function.handler"
+    }
+  ],
+  "resolvers": [
+    {
+      "name": "Test3Function",
+      "functionName": "Test3Function",
+      "gqlType": "Query"
+    }
+  ],
+  "triggers": [],
+  "webhooks": []
+}

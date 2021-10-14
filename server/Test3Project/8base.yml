@@ -1,0 +1,6 @@
+functions:
+  Test3Function:
+    type: resolver
+    handler:
+      code: src/resolvers/Test3Function/handler.ts
+    schema: src/resolvers/Test3Function/schema.graphql
