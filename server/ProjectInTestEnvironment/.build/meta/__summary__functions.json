@@ -1,0 +1,17 @@
+{
+  "functions": [
+    {
+      "name": "TestEnvFunc",
+      "handler": "TestEnvFunc.handler"
+    }
+  ],
+  "resolvers": [
+    {
+      "name": "TestEnvFunc",
+      "functionName": "TestEnvFunc",
+      "gqlType": "Query"
+    }
+  ],
+  "triggers": [],
+  "webhooks": []
+}

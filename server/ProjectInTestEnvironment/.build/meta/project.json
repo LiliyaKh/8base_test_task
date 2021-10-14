@@ -1,0 +1,10 @@
+{
+  "name": "ProjectInTestEnvironment",
+  "functions": [
+    {
+      "name": "TestEnvFunc",
+      "handler": "TestEnvFunc.handler",
+      "pathToFunction": "src/resolvers/TestEnvFunc/handler.ts"
+    }
+  ]
+}

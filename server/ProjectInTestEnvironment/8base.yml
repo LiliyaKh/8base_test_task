@@ -1,0 +1,6 @@
+functions:
+  TestEnvFunc:
+    type: resolver
+    handler:
+      code: src/resolvers/TestEnvFunc/handler.ts
+    schema: src/resolvers/TestEnvFunc/schema.graphql

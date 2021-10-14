@@ -1,0 +1,6 @@
+functions:
+  secondTestProjectFunction:
+    type: resolver
+    handler:
+      code: src/resolvers/secondTestProjectFunction/handler.ts
+    schema: src/resolvers/secondTestProjectFunction/schema.graphql
